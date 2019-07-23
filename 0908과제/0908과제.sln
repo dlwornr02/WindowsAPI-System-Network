@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0908과제", "0908과제\0908과제.vcxproj", "{BB4CAF50-B098-4A99-BC87-4C10CF31FEE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4CAF50-B098-4A99-BC87-4C10CF31FEE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB4CAF50-B098-4A99-BC87-4C10CF31FEE4}.Debug|Win32.Build.0 = Debug|Win32
+		{BB4CAF50-B098-4A99-BC87-4C10CF31FEE4}.Release|Win32.ActiveCfg = Release|Win32
+		{BB4CAF50-B098-4A99-BC87-4C10CF31FEE4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿빌드 시작: 2016-09-19 오후 8:13:24
+     1>2 노드의 "C:\Project\API\system\system\system.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\system.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt fdsaa.cpp
+         fdsaa.cpp
+     1>c:\project\api\system\system\fdsaa.cpp(18): error C2065: 's' : 선언되지 않은 식별자입니다.
+     1>c:\project\api\system\system\fdsaa.cpp(18): error C2146: 구문 오류 : ';'이(가) 'printf' 식별자 앞에 없습니다.
+     1>"C:\Project\API\system\system\system.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.35

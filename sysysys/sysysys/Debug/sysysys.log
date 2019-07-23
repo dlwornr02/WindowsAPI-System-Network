@@ -1,0 +1,26 @@
+﻿빌드 시작: 2016-09-19 오후 8:19:10
+     1>2 노드의 "C:\Project\API\sysysys\sysysys\sysysys.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\sysysys.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt fdsa.cpp
+         fdsa.cpp
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Project\API\sysysys\Debug\sysysys.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\sysysys.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Project\API\sysysys\Debug\sysysys.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Project\API\sysysys\Debug\sysysys.lib" /MACHINE:X86 Debug\sysysys.exe.embed.manifest.res
+         Debug\fdsa.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\sysysys.exe.embed.manifest" /manifest Debug\sysysys.exe.intermediate.manifest
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         sysysys.vcxproj -> C:\Project\API\sysysys\Debug\sysysys.exe
+       FinalizeBuildStatus:
+         "Debug\sysysys.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\sysysys.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Project\API\sysysys\sysysys\sysysys.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.59
